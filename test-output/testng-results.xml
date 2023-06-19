@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-18T20:41:54Z" name="Default suite" finished-at="2023-06-18T20:42:20Z" duration-ms="26255">
+    <groups>
+    </groups>
+    <test started-at="2023-06-18T20:41:54Z" name="Default test" finished-at="2023-06-18T20:42:20Z" duration-ms="26255">
+      <class name="validateWebsite.TestSteps">
+        <test-method is-config="true" signature="readConfig()[pri:0, instance:validateWebsite.TestSteps@59cba5a]" started-at="2023-06-18T20:41:54Z" name="readConfig" finished-at="2023-06-18T20:41:54Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method is-config="true" signature="init()[pri:0, instance:validateWebsite.TestSteps@59cba5a]" started-at="2023-06-18T20:41:54Z" name="init" finished-at="2023-06-18T20:41:55Z" duration-ms="1514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="selectMonthInDropdown()[pri:6, instance:validateWebsite.TestSteps@59cba5a]" started-at="2023-06-18T20:41:55Z" name="selectMonthInDropdown" finished-at="2023-06-18T20:42:20Z" duration-ms="24719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectMonthInDropdown -->
+      </class> <!-- validateWebsite.TestSteps -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

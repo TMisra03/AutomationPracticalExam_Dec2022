@@ -1,0 +1,40 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2023-06-19T00:03:16.651Z",
+        "line": 5,
+        "name": "Sky Blue Background",
+        "description": "Given: \"Set SkyBlue Background\" button exists \nWhen: I click on the Set SkyBlue Background button \nThen: The background color will change to sky blue",
+        "id": "techfios-billing-login-page-functionality-validation;sky-blue-background",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [],
+        "tags": [
+          {
+            "name": "@webpageColorFeature"
+          },
+          {
+            "name": "@colorScenario1"
+          }
+        ]
+      }
+    ],
+    "name": "Techfios billing login page functionality validation",
+    "description": "",
+    "id": "techfios-billing-login-page-functionality-validation",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/TechFiosWebpageColor.feature",
+    "tags": [
+      {
+        "name": "@webpageColorFeature",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
